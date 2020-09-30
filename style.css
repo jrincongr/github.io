@@ -1,0 +1,76 @@
+
+
+/* The idea was teken from: C:\Users\javir\CodingBootcamp\utor-tor-fsf-pt-09-2020-u-c\01-HTML-Git-CSS\01-Activities\09-FloatLayout-Activity\Solved\floats.css */
+
+ 
+.body {
+    position: relative;
+    height: 500px;
+    background: #232324;
+  }
+
+  
+  .header {
+    position: fixed;
+    width: 95%;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: rgb(252, 248, 248);
+    background: #232324;
+  }
+
+  .Name {
+    position: fixed;
+    width: 50%;
+    top: 90px;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: rgb(252, 248, 248);
+    background: #232324;
+  }
+  
+  
+  .img-responsive {
+    position: fixed;
+    top: 175px;
+    width: 200px;
+    height: 200px;
+    padding: 25px;
+    color: rgb(252, 248, 248);
+    background: #232324;
+  }
+  
+  .text {
+    position: fixed;
+    width: 50%;
+    top: 150px;
+    left: 233px;
+    padding: 56px;
+    margin-bottom: 20px;
+    color: rgb(252, 248, 248);
+    background: #232324;
+  }
+
+  .contact {
+    position: fixed;
+    width: 20%;
+    top: 90px;
+    left: 700px;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: rgb(252, 248, 248);
+    background: #232324;
+  }
+  
+  .list {
+      position: fixed;
+      width: 20%;
+      top: 175px;
+      left: 700px;
+      padding: 56px;
+      margin-bottom: 20px;
+      color: rgb(252, 248, 248);
+      background: #232324;
+  }
+ 
